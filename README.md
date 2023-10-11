@@ -10,4 +10,4 @@ O objetivo é que o código insira na página web as informações dos clientes 
 
 Certifique-se antes de que todos os arquivos estão na mesma pasta do computador.
 
-Vídeo do código em funcionamento:
+Vídeo do código em funcionamento: https://youtu.be/wrbX5MOyKxA
